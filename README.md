@@ -5,4 +5,4 @@
 
 [The analysis of Coronavirus (PowerBI)](https://github.com/TheAnalystLeo/leonard-s_portfolio/tree/9d13c22c8781366fbef69c92789102ff0dba7a00/The%20analysis%20of%20Coronavirus%20(PowerBI))
 
-[The analysis of HDB Retail Prices (Python)] (https://github.com/TheAnalystLeo/leonards_portfolio/tree/0a94694c86084c8deca70bfa4f00c873f53063ce/The%20analysis%20of%20HDB%20Retail%20Prices%20(Python))
+[The analysis of HDB Retail Prices (Python)](https://github.com/TheAnalystLeo/leonards_portfolio/tree/0a94694c86084c8deca70bfa4f00c873f53063ce/The%20analysis%20of%20HDB%20Retail%20Prices%20(Python))

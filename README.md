@@ -5,4 +5,6 @@
 
 [The analysis of Coronavirus (PowerBI)](https://github.com/TheAnalystLeo/leonard-s_portfolio/tree/9d13c22c8781366fbef69c92789102ff0dba7a00/The%20analysis%20of%20Coronavirus%20(PowerBI))
 
+[The analysis of HDB Retail Prices (Python)](https://github.com/TheAnalystLeo/leonard-s_portfolio/tree/6fadf75f93ac3b83337b182a31c0308e0db6b6cf/The%20analysis%20of%20HDB%20Retail%20Prices%20(Python))
+
 [The analysis of profitable stocks (Python, Tableau)](https://github.com/TheAnalystLeo/leonard-s_portfolio/tree/0a94694c86084c8deca70bfa4f00c873f53063ce/The%20analysis%20of%20profitable%20stocks%20(Python%2C%20Tableau))
